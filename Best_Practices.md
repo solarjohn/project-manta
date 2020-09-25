@@ -21,4 +21,4 @@ This shaded space can be used to charge the bikes and scooters as well as to pro
 Include e-bikes and e-scooters
 
   1. E-bikes allow for greater distances to be travelled with ease and are arguably the future of two wheeled transit.
-  2. Scooters balance out the options and are preferred by some people.
+  2. Scooters balance out the options and are preferred by some people. 
